@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👨🏻‍💻 Full Stack Developer sharing my journey and learnings in tech  
-👨🏻‍🎓 Studying [Computer Science] at the H.I.T, Israel  
+👨🏻‍🎓 Studied [Computer Science] at the H.I.T, Israel  
 💭 Currently learning about cloud development [Mostly Azure]  
 🚀 Working on projects involving MERN stack and cloud deployment  
 🎯 Passionate about building scalable web applications and mastering cloud infrastructure  
